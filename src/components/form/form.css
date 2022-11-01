@@ -1,0 +1,26 @@
+
+.form{
+    flex:0 0 auto;
+    width: 70%;
+    padding: 30px;
+    
+}
+form div{
+    margin-bottom: 10px;
+
+}
+form input{
+    display: block;
+    padding: 5px;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 3px;
+    height: 40px;
+
+}
+form input[type=submit]
+{
+   cursor: pointer;
+   background-color: brown;
+   color: aliceblue; 
+}

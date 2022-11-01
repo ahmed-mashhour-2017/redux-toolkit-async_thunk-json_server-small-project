@@ -1,0 +1,7 @@
+.header{
+    background-color: brown;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}

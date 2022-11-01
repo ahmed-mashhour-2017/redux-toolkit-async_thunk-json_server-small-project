@@ -1,0 +1,18 @@
+.side_bar{
+    width: 25%;
+    background-color:#f6f6f6 ;
+    height: calc(100vh-63px);
+    padding: 10px;
+}
+.side_bar ul{
+    list-style: none;
+}
+.side_bar li a{
+display: block;
+background-color:  rgb(76, 71, 71);
+color: #f6f6f6;
+padding: 7px;
+margin-bottom: 10px;
+font-size: 18px;
+text-decoration: none;
+}
